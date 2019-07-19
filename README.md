@@ -1,2 +1,2 @@
 # C-Samples
-Rinky-dink C# samples from tutorials
+Rinky-dink C# samples.
